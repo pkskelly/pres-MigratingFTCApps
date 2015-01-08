@@ -44,3 +44,10 @@ References
 - :information_source: [Office 365 Developer GitHub](https://github.com/OfficeDev/PnP) 
 - :information_source: [Office 365 Developer PnP Home GitHub](https://github.com/OfficeDev/PnP) 
 
+
+
+Speaker Bio
+==============
+Pete Skelly is the Director of technology and Principal Consultant at ThreeWill.
+
+
