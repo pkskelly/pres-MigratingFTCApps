@@ -42,5 +42,6 @@ References
 Speaker Bio
 ==============
 Pete Skelly is the Director of technology and Principal Consultant at ThreeWill.
+Pete has been in the industry for more than 20 years.
 
 
