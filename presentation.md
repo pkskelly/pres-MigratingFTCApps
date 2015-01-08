@@ -23,6 +23,11 @@ Feature Guide
 | Site Template      | Provision by CSOM      |   N/A |
 | Custom CSS | Provision by CSOM      |    N/A |
 
+What Should you do today?
+========================
+- Use REST whenever possible
+- Use CSOM when needed
+- Use REST *EVEN* if you are creating WSP's on premises
 
 References 
 =================
