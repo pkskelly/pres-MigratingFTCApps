@@ -8,7 +8,7 @@ Full Trust Code
 - Assumes server 
 
 
-Un-comon Terms 
+Un-common Terms 
 =================
 - Office 365 PI
 - REST
@@ -26,6 +26,7 @@ Feature Guide
 
 References 
 =================
-- [Office Developer Center](http://dev.office.com/)
-- [Office 365 Developer GitHub](https://github.com/OfficeDev/PnP)
-- [Office 365 Developer PnP Home GitHub](https://github.com/OfficeDev/PnP)
+- :information_source: [Office Developer Center](http://dev.office.com/) 
+- :information_source: [Office 365 Developer GitHub](https://github.com/OfficeDev/PnP) 
+- :information_source: [Office 365 Developer PnP Home GitHub](https://github.com/OfficeDev/PnP) 
+
