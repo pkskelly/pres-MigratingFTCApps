@@ -1,0 +1,22 @@
+Overview
+==============
+Migrating Full Trust Code to the new App Model - A Pragmatic Approach to Custom SharePoint Development
+
+Full Trust Code
+===============
+- Challenges with multi-tenant code isolation
+- Assumes server 
+
+
+Un-comon Terms 
+=================
+- Office 365 PI
+- REST
+- CSOM
+- JSOM
+
+References 
+=================
+[Office Developer Center](http://dev.office.com/)
+[Office 365 Developer GitHub](https://github.com/OfficeDev/PnP)
+[Office 365 Developer PnP Home GitHub](https://github.com/OfficeDev/PnP)
