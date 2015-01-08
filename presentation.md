@@ -15,8 +15,17 @@ Un-comon Terms
 - CSOM
 - JSOM
 
+Feature Guide
+=================
+| FTC           | App Model     | Office 365  |
+| :------------- |:-------------:| :-----:|
+| List Template      | Provision by CSOM | N/A|
+| Site Template      | Provision by CSOM      |   N/A |
+| Custom CSS | Provision by CSOM      |    N/A |
+
+
 References 
 =================
-[Office Developer Center](http://dev.office.com/)
-[Office 365 Developer GitHub](https://github.com/OfficeDev/PnP)
-[Office 365 Developer PnP Home GitHub](https://github.com/OfficeDev/PnP)
+- [Office Developer Center](http://dev.office.com/)
+- [Office 365 Developer GitHub](https://github.com/OfficeDev/PnP)
+- [Office 365 Developer PnP Home GitHub](https://github.com/OfficeDev/PnP)
