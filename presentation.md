@@ -29,9 +29,18 @@ What Should you do today?
 - Use CSOM when needed
 - Use REST *EVEN* if you are creating WSP's on premises
 
+
+
 References 
 =================
 - :information_source: [Office Developer Center](http://dev.office.com/) 
 - :information_source: [Office 365 Developer GitHub](https://github.com/OfficeDev/PnP) 
 - :information_source: [Office 365 Developer PnP Home GitHub](https://github.com/OfficeDev/PnP) 
+
+
+
+Speaker Bio
+==============
+Pete Skelly is the Director of technology and Principal Consultant at ThreeWill.
+
 
