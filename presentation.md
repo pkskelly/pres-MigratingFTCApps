@@ -1,11 +1,14 @@
-Overview
+Migrating FTC Solutions
 ==============
-Migrating Full Trust Code to the new App Model - A Pragmatic Approach to Custom SharePoint Development
+A Pragmatic Approach to Custom SharePoint Solution Migration to the App Model
+
+
 
 Full Trust Code
 ===============
 - Challenges with multi-tenant code isolation
-- Assumes server 
+- Assumes server
+
 
 
 Un-common Terms 
@@ -15,6 +18,8 @@ Un-common Terms
 - CSOM
 - JSOM
 
+
+
 Feature Guide
 =================
 | FTC           | App Model     | Office 365  |
@@ -23,11 +28,15 @@ Feature Guide
 | Site Template      | Provision by CSOM      |   N/A |
 | Custom CSS | Provision by CSOM      |    N/A |
 
+
+
 What Should you do today?
 ========================
 - Use REST whenever possible
 - Use CSOM when needed
 - Use REST *EVEN* if you are creating WSP's on premises
+
+
 
 References 
 =================
