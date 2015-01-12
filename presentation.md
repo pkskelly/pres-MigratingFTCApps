@@ -15,13 +15,24 @@ Un-common Terms
 - CSOM
 - JSOM
 
+
+
+Branding
+=================
+- Avoid Custom Master pages
+- Prefer Themes if possible
+- Use Alternate CSS web property
+- Use Remote Provisioning model 
+
+
 Feature Guide
 =================
 | FTC           | App Model     | Office 365  |
 | :------------- |:-------------:| :-----:|
 | List Template      | Provision by CSOM | N/A|
 | Site Template      | Provision by CSOM      |   N/A |
-| Custom CSS | Provision by CSOM      |    N/A |
+| Custom CSS | Provision by CSOM      |    Provision by CSOM |
+| X|X|X|
 
 What Should you do today?
 ========================
