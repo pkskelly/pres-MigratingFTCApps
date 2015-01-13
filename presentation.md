@@ -34,6 +34,8 @@ Feature Guide
 | Custom CSS | Provision by CSOM      |    Provision by CSOM |
 | X|X|X|
 
+
+
 What Should you do today?
 ========================
 - Use REST whenever possible
