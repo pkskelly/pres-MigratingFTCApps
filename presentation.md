@@ -5,17 +5,16 @@ Migrating Full Trust Code to the new App Model - A Pragmatic Approach to Custom 
 Full Trust Code
 ===============
 - Challenges with multi-tenant code isolation
-- Assumes server 
 
 
-Un-common Terms 
-=================
-- Office 365 PI
-- REST
-- CSOM
-- JSOM
-
-
+Development Options
+===================
+- FTC
+- Sandbox
+- SharePoint Hosted
+    - App web
+    - Host Web
+- Provider Hosted
 
 Branding
 =================
@@ -25,7 +24,7 @@ Branding
 - Use Remote Provisioning model 
 
 
-Feature Guide
+Migration Matrix
 =================
 | FTC           | App Model     | Office 365  |
 | :------------- |:-------------:| :-----:|
@@ -36,27 +35,30 @@ Feature Guide
 
 
 
-What Should you do today?
+Still On Premises - What Should I Do?
 ========================
 - Use REST whenever possible
 - Use CSOM when needed
 - Use REST *EVEN* if you are creating WSP's on premises
+- Provision using code vs. declarative files
 
 
 
-References 
+References
 =================
-- :information_source: [Office Developer Center](http://dev.office.com/) 
-- :information_source: [Office 365 Developer GitHub](https://github.com/OfficeDev/PnP) 
-- :information_source: [Office 365 Developer PnP Home GitHub](https://github.com/OfficeDev/PnP) 
+- [Office Developer Center](http://dev.office.com/)
+- [Office 365 Developer GitHub](https://github.com/OfficeDev/PnP)
+- [Office 365 Developer PnP Home GitHub](https://github.com/OfficeDev/PnP)
+- [FTC to CAM] (http://blogs.msdn.com/b/vesku/archive/2013/11/06/ftc-to-cam-stop-creating-content-types-and-site-columns-declaratively.aspx)
 
 
 
 Speaker Bio
 ==============
-Pete Skelly is the Director of technology and Principal Consultant at ThreeWill.
-Pete has been in the industry for more than 20 years.
-Another update
+Pete Skelly is the Director of Technology and Principal Consultant at ThreeWill.
+Pete has been in the industry for more than 20 years but has focused on SharePoint and Office
+Solutions for the last 9 years.
+
 
 
 
