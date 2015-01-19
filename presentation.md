@@ -2,9 +2,12 @@ Overview
 ==============
 Migrating Full Trust Code to the new App Model - A Pragmatic Approach to Custom SharePoint Development
 
+
+
 Full Trust Code
 ===============
 - Challenges with multi-tenant code isolation
+- Code cannot be run on server
 - Cloud App Model requires CSOM or REST
 
 
