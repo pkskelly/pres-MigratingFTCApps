@@ -11,6 +11,7 @@ Full Trust Code
 - Cloud App Model requires CSOM or REST
 
 
+
 Development Options
 ===================
 - FTC
@@ -20,12 +21,15 @@ Development Options
     - Host Web
 - Provider Hosted
 
+
+
 Branding
 =================
 - Avoid Custom Master pages
 - Prefer Themes if possible
 - Use Alternate CSS web property
-- Use Remote Provisioning model 
+- Use Remote Provisioning model
+
 
 
 Migration Matrix
