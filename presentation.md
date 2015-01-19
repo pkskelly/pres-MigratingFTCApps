@@ -65,7 +65,7 @@ Pete has been in the industry for more than 20 years but has focused on SharePoi
 Solutions for the last 9 years.
 
 Pete has over 20 years of experience in SMB and Enterprise application support, custom development, architecture design and project management.
-
+Pete was a Principal Consultant at ThreeWill with responsibilities ranging from solution design and development to account and project management across Financial Services, Healthcare, Insurance and Communications industries.
 
 
 
