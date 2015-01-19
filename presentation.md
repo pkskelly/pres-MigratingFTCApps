@@ -59,7 +59,7 @@ References
 
 Speaker Bio
 ==============
-Pete Skelly is the Director of Technology and Principal Consultant at ThreeWill.
+Pete Skelly is the Director of Technology and Principal Consultant at [ThreeWill](http://www.threewill.com/).
 Pete has been in the industry for more than 20 years but has focused on SharePoint and Office
 Solutions for the last 9 years.
 
