@@ -4,9 +4,12 @@ A Pragmatic Approach to Custom SharePoint Solution Migration to the App Model
 
 
 
+
+
 Full Trust Code
 ===============
 - Challenges with multi-tenant code isolation
+- Code cannot be run on server
 - Cloud App Model requires CSOM or REST
 
 
