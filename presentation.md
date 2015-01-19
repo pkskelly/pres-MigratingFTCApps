@@ -5,6 +5,7 @@ Migrating Full Trust Code to the new App Model - A Pragmatic Approach to Custom 
 Full Trust Code
 ===============
 - Challenges with multi-tenant code isolation
+- Cloud App Model requires CSOM or REST
 
 
 Development Options
