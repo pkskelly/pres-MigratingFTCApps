@@ -1,6 +1,6 @@
-Overview
+FTC to CAM
 ==============
-Migrating Full Trust Code to the new App Model - A Pragmatic Approach to Custom SharePoint Development
+ - Strategies to migrate Full Trust Code to the new App Model
 
 
 
