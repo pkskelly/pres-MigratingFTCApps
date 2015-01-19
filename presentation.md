@@ -65,6 +65,6 @@ Solutions for the last 9 years.
 
 Pete has over 20 years of experience in SMB and Enterprise application support, custom development, architecture design and project management.
 Pete was a Principal Consultant at ThreeWill with responsibilities ranging from solution design and development to account and project management across Financial Services, Healthcare, Insurance and Communications industries.
-
+Prior to ThreeWill, Pete worked for HP where he was a Technical Lead and Architect designing and developing world wide applications for service provisioning and help desk automation.
 
 
