@@ -43,7 +43,7 @@ Migration Matrix
 
 
 
-But I'm Still On Premises...
+But We're Still On Premises
 ========================
 - Use REST whenever possible
 - Use CSOM when needed
