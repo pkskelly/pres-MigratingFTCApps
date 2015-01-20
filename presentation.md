@@ -111,9 +111,67 @@ FTC - List Templates
 Branding
 =================
 - Avoid Custom Master pages
-- Prefer Themes if possible
-- Use Alternate CSS web property
+- Prefer Themes if possible (Suite level themeing)
+- Consider using Alternate CSS web property
 - Use Remote Provisioning model
+- Ensure you are willing to pay the "branding tax"
+
+
+Site Provisioning
+=================
+- DO NOT use site or web templates
+- Use "remote provisioing" pattern (CSOM)
+- Deploye artifcats WITHOUT Features
+- Update using "Remote Management" pattern
+- Separate code from content 
+
+
+
+Site Provisioing Models
+=======================
+- Feature Stapling
+- Custom Site Definitions
+- WebTemplates
+- Server Side Solutions
+
+
+
+Feature Stapling (bad)
+======================
+- Cannot be used to bring new template options
+- Only available in O365 at site collection scope in Sandbox Solutions (to every site coll)
+
+
+
+Custom Site Definitons (bad)
+============================
+- impacts major version upgrades
+- not supported in O365
+- Farm level deployments
+
+
+
+WebTemplate
+===========
+	- maintenacnce challenges due to replacement of oob site defintiion
+	- Supported in site collection in O365
+	- Maintenace management nightmare - onet.xml HELL
+
+Full Server side code
+======================
+- time jobs, site provisioing provider, and more
+- not supported in O365
+- maintenance and update complexitities
+
+
+Provisioning Matrix
+===================
+||Site Defintion | Site Template | WebTemplate | Server Side | Remote |
+|Options||||||
+|Cloud Support| No | Yes | Yes | No | Yes |
+|Rating| Good | Fair | Average  | Good | Excellent |
+| Cost Impact | $$$ | $$ | $$ | $ | $$ |
+
 
 
 
@@ -153,6 +211,8 @@ Key Points
 - Focus on the business objective to be achieved
 - Apps for Office 365 AND on premises! 
 - RE-evaluate requirements and use new approaches
+- NO MORE FEATURE FRAMEWORK - use PnP Core Code for provisioning
+
 
 
 References
